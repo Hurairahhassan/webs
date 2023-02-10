@@ -1,6 +1,6 @@
 import openai
 import streamlit as st
-openai.api_key = "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"
+openai.api_key = "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"
 @st.cache(allow_output_mutation=True)
 # openai.api_key = "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"
 
